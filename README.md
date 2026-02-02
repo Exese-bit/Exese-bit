@@ -4,4 +4,4 @@
 
 **I am currently pursuing a double major in Electrical Engineering and Mathematics at Lund University in Lund, Sweden. I have a vested interest in hardware engineering and computational science. Take a look at some of my projects!**
 
-My current focus is on FPGA based FMCW radar signal processing -- found in the "" repository
+My current focus is on FPGA based FMCW radar signal processing -- found in the "fpga-radar-projects" repository
