@@ -2,6 +2,6 @@
 
 <img width="800" height="250" alt="20250925_00h48m20s_grim" src="https://github.com/user-attachments/assets/541baef7-a00b-4684-be1d-71d2d98bf6c7" />
 
-**I am currently pursuing a double major in Electrical Engineering and Mathematics at Lund University in Lund, Sweden. I have a vested interest in hardware engineering and computational science. Take a look at some of my projects!**
+**I am currently pursuing a double major in Electrical Engineering and Mathematics at Lund University in Lund, Sweden. I have a vested interest in hardware engineering and applied math. Take a look at some of my projects!**
 
-My current focus is on FPGA based FMCW radar signal processing -- found in the "fpga-radar-projects" repository
+My current focus is on FPGA based FMCW radar signal processing -- found in the "fpga-radar-projects" repository. I am working towards making an optimized 2048 point fast fourier transform (FFT) module in Verilog for use with simulated FMCW radar data in a room.
